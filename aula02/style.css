@@ -1,0 +1,28 @@
+h2 {
+    color: blue;
+}
+
+#h2-maior {
+    font-size: 48px;
+}
+
+.h2-vermelho {
+    color: red;
+}
+
+
+
+
+#ingredientes {
+    background-color: rgba(0, 128, 0, 0.395);
+    font-family: sans-serif;
+    font-size: 24px;
+}
+#modo-de-preparo {
+    background-color: rgba(0, 76, 255, 0.469);
+
+    h2{
+        
+    } 
+
+}
